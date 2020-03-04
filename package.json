@@ -1,0 +1,32 @@
+{
+	"name": "cra-template-the-lazy-dev-otaku",
+	"version": "1.0.0",
+	"keywords": [
+		"react",
+		"redux",
+		"react-redux",
+		"redux-thunk",
+		"create-react-app",
+		"template",
+		"the-lazy-dev-otaku",
+		"igmrrf"
+	],
+	"description": "A customized template containing Redux, Anime.js, Bootstrap and the Create React App using JSON Placeholder Fake api as Default API",
+	"main": "template.json",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/facebook/create-react-app.git",
+		"directory": "packages/cra-template"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": ">=8"
+	},
+	"bugs": {
+		"url": "https://github.com/facebook/create-react-app/issues"
+	},
+	"files": [
+		"template",
+		"template.json"
+	]
+}
