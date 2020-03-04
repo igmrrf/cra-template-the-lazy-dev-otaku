@@ -15,15 +15,15 @@
 	"main": "template.json",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/facebook/create-react-app.git",
-		"directory": "packages/cra-template"
+		"url": "https://github.com/igmrrf/cra-template-the-lazy-dev-otaku",
+		"directory": "packages/template"
 	},
 	"license": "MIT",
 	"engines": {
 		"node": ">=8"
 	},
 	"bugs": {
-		"url": "https://github.com/facebook/create-react-app/issues"
+		"url": "https://github.com/igmrrf/cra-template-the-lazy-dev-otaku/issues"
 	},
 	"files": [
 		"template",
