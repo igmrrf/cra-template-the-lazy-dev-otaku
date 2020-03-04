@@ -1,18 +1,18 @@
-### The Lazy Dev Otaku
+# The Lazy Dev Otaku
 
 ## Project Inclusion
 
-# Redux: React-Redux, Redux-Thunk, Redux-Toolkit
+### Redux: React-Redux, Redux-Thunk, Redux-Toolkit
 
-# Anime Js
+### Anime Js
 
-# Bootstrap: React-Bootstrap
+### Bootstrap: React-Bootstrap
 
-# Axios
+### Axios
 
-# MDBreact
+### MDBreact
 
-# Material UI
+### Material UI
 
 # .
 

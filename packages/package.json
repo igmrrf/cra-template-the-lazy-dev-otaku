@@ -1,6 +1,6 @@
 {
-	"name": "cra-template-the-lazy-dev-otaku",
-	"version": "1.0.0",
+	"name": "the-lazy-dev-otaku",
+	"version": "1.0.5",
 	"keywords": [
 		"react",
 		"redux",
