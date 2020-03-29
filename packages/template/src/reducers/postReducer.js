@@ -6,19 +6,20 @@ const initialState = {
 };
 
 export default function(state = initialState, action) {
-	console.log("object");
 	switch (action.type) {
 		case FETCH_POSTS:
-			console.log("object");
+			console.log("Fetch reducer Called");
 			return {
 				...state,
 				items: action.payload
 			};
 		case NEW_POST:
+			console.log("Post reducer Called");
 			return {
 				...state,
 				item: action.payload
 			};
+
 		default:
 			return state;
 	}

@@ -8,6 +8,7 @@ class PostForm extends Component {
 	constructor(props) {
 		super(props);
 		this.state = {
+			id: 101,
 			title: "",
 			body: ""
 		};
@@ -20,9 +21,11 @@ class PostForm extends Component {
 	onSubmit(e) {
 		e.preventDefault();
 		const post = {
+			id: this.state.id,
 			title: this.state.title,
 			body: this.state.body
 		};
+
 		//Call action
 		this.props.createPost(post);
 	}
